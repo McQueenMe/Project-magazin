@@ -618,6 +618,7 @@ font-weight: 400;
    .news__title{
       text-align: center;
       padding-top: 10px;
+      padding-top: 10px;
    }
    .news__card{
       width: 80%;
@@ -627,7 +628,7 @@ font-weight: 400;
    }
    .news__text{
       font-size: 14px;
-   }
+   } 
 }
 
 @media (max-width:666px){
